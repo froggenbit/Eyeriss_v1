@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1736133823" />
+    <testcase name="test_pe_array" classname="test_pe_array" file="/Users/fangtianqi/weiyun/sync/rtl/eyeriss_delin/tests/test_pe_array.py" lineno="12" time="0.5083920955657959" sim_time_ns="3405.001" ratio_time="6697.58839623683" />
+  </testsuite>
+</testsuites>
